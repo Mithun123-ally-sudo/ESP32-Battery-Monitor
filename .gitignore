@@ -1,0 +1,15 @@
+# Temporary and operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor backups and temporary files
+*.tmp
+*.bak
+*~
+
+# Python files, if added later
+__pycache__/
+*.py[cod]
+.venv/
+venv/
