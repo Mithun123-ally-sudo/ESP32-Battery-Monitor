@@ -1,4 +1,5 @@
 # ESP32-Based Battery Monitoring and Fault Logging System
+https://wokwi.com/projects/479204729680711681
 
 ## Project Overview
 This project simulates a battery monitoring system using an ESP32 in Wokwi. It accepts battery voltage, current, and temperature readings through the Serial Monitor, estimates the state of charge (SOC), detects abnormal conditions, and displays the readings and system status on a 16×2 I2C LCD.
